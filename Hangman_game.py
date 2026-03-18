@@ -1,3 +1,7 @@
+# Hangman Game
+# Created by Arjun Muluk
+# Internship Task 1
+
 import random
 
 # Predefined list of 5 words
@@ -55,3 +59,14 @@ while incorrect_guesses < max_attempts:
 # Lose condition
 if incorrect_guesses == max_attempts:
     print("\n💀 You Lose! The word was:", word)
+
+
+## 📸 Demo
+(Add your LinkedIn video link here after posting)
+
+## 🙌 Learning Outcome
+This project helped me understand basic game logic and improve my problem-solving skills in Python.
+
+---
+
+⭐ If you like this project, feel free to give it a star!
