@@ -62,7 +62,7 @@ if incorrect_guesses == max_attempts:
 
 
 ## 📸 Demo
-(Add your LinkedIn video link here after posting)
+(https://www.linkedin.com/posts/arjun-muluk-6aa938376_codealpha-python-internship-ugcPost-7439935616873574400-tKOJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0K-OIBxazuEX0o9OThcK5ZB0EuFP3B-LE)
 
 ## 🙌 Learning Outcome
 This project helped me understand basic game logic and improve my problem-solving skills in Python.
